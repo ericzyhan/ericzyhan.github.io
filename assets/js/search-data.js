@@ -379,8 +379,8 @@ ninja.data = [{
             },},{id: "news-i-started-my-phd-woohoo-should-be-fun",
           title: 'I started my PhD! Woohoo!… Should be fun…',
           description: "",
-          section: "News",},{id: "news-passed",
-          title: 'Passed',
+          section: "News",},{id: "news-i-passed-my-first-round-of-qualifying-exams",
+          title: 'I passed my first round of qualifying exams!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
