@@ -6,5 +6,4 @@ inline: false
 related_posts: false
 ---
 
-
 This was a 4-hour foundational exam covering advanced calculus and linear algebra, a first course in numerical analysis, and ordinary differential equations. 
