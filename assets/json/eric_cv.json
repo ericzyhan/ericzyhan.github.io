@@ -19,6 +19,13 @@
   "work": [
     {
       "name": "Air Force Research Lab",
+      "position": "Graduate Research Fellow",
+      "startDate": "2026-09-01",
+      "summary": "Working with Marco Gamarra on distributed networks and graph curvature.",
+      "highlights": []
+    },
+    {
+      "name": "Air Force Research Lab",
       "position": "Visiting Faculty Researcher",
       "startDate": "2026-06-01",
       "endDate": "2026-08-31",
@@ -101,6 +108,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "AFRL Graduate Research Fellowship",
+      "date": "2026-08-31",
+      "awarder": "Air Force Research Laboratory",
+      "summary": "Graduate research fellowship at the AFRL for Fall 2026."
+    },
     {
       "title": "Stony Brook University Funding",
       "date": "2025-08-01",
