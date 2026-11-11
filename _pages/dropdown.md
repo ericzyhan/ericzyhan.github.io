@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # hidden until the blog/bookshelf have real content
 nav_order: 8
 dropdown: true
 children:
