@@ -91,9 +91,7 @@
       "startDate": "2023-08-01",
       "endDate": "2025-05-31",
       "score": "3.87",
-      "courses": [
-        "Methods of Applied Math 1, Methods of Applied Math 2, Modern Algebra 1, Probability, Real Analysis"
-      ]
+      "courses": ["Methods of Applied Math 1, Methods of Applied Math 2, Modern Algebra 1, Probability, Real Analysis"]
     },
     {
       "institution": "CUNY Baruch College",
@@ -144,34 +142,17 @@
     {
       "name": "Computer Languages",
       "level": "Proficient",
-      "keywords": [
-        "Python",
-        "Julia",
-        "C",
-        "MATLAB",
-        "Mathematica",
-        "SageMath"
-      ]
+      "keywords": ["Python", "Julia", "C", "MATLAB", "Mathematica", "SageMath"]
     },
     {
       "name": "Core Skills",
       "level": "Proficient",
-      "keywords": [
-        "Algorithm Development",
-        "Numerical Methods for PDEs",
-        "PINNs",
-        "Physics-Based Modeling"
-      ]
+      "keywords": ["Algorithm Development", "Numerical Methods for PDEs", "PINNs", "Physics-Based Modeling"]
     },
     {
       "name": "Tools",
       "level": "Proficient",
-      "keywords": [
-        "LaTeX",
-        "PyTorch",
-        "LAPACK",
-        "CAD (Solidworks)"
-      ]
+      "keywords": ["LaTeX", "PyTorch", "LAPACK", "CAD (Solidworks)"]
     }
   ],
   "languages": [
