@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD! Woohoo! Should be fun!
+I started my PhD! Should be fun!
