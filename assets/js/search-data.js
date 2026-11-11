@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "My CV!",
@@ -384,8 +377,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-starting-at-the-afrl",
+            },},{id: "news-i-passed-my-second-and-final-round-of-qualifying-exams",
+          title: 'I passed my second and final round of qualifying exams!',
+          description: "",
+          section: "News",},{id: "news-starting-at-the-afrl",
           title: 'Starting at the AFRL!',
+          description: "",
+          section: "News",},{id: "news-i-received-the-afrl-graduate-research-fellowship-for-the-fall",
+          title: 'I received the AFRL Graduate Research Fellowship for the Fall!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -437,7 +436,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Eric_Han_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -445,6 +444,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%65%72%69%63.%7A.%68%61%6E@%73%74%6F%6E%79%62%72%6F%6F%6B.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ericzyhan", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/eric-zy-han", "_blank");
         },
       },{
       id: 'light-theme',
