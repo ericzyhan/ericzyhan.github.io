@@ -26,6 +26,10 @@ latest_posts:
 
 Hi! I'm a Ph.D. candidate at [Stony Brook University](https://www.stonybrook.edu/commcms/ams/) and a graduate research fellow at the [AFRL](https://www.afrl.af.mil/) studying computational applied mathematics.
 
-Broadly, my research focuses on network dynamics, high-performance numerical methods, and mathematical imaging. Currently, I have an AFRL Information Institute fellowship, where I'm working with Marco Gamarra at the AFRL on distributed networks and graph curvature. I'm also working with [Caitlin Lienkaemper](https://lienkaemper.github.io/) on random [CTLNs](https://doi.org/10.1016/j.aam.2023.102652).
+Broadly, my research focuses on network dynamics, high-performance numerical methods, and mathematical imaging. Currently, I'm working with Marco Gamarra at the AFRL on distributed networks and graph curvature. I'm also working with [Caitlin Lienkaemper](https://lienkaemper.github.io/) on random [CTLNs](https://doi.org/10.1016/j.aam.2023.102652).
 
-I like to work on pure structural concepts as applied to evolving physical systems! I'm particularly fascinated by the connection between spectral quantities, large networks, and fast numerical updates to serve those purposes.
+I like to work on pure structural concepts as applied to evolving physical systems. I'm particularly fascinated by the connection between spectral quantities, large networks, and fast numerical updates to serve those purposes.
+
+---
+
+Throughout my life I've taught a lot of math! I believe strongly in Federico Ardila's [axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf) of teaching.
